@@ -1,7 +1,7 @@
 # Telgfor
 **🚀 Best Telegram Bot To Forward Messages - NO SK & Proxyless**
 
-## Free Version v1 | coded by my ARON-TN
+## Free Version v1 | coded by ARON-TN
 
 ### ✔️ New version of bot V2 it can be used to get messages instant with the Real user, it's ready also for more information contact me 🔥 .
 
