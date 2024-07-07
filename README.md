@@ -12,7 +12,7 @@
 Download the executable file for Windows TelegramForwarder.exe .
 
 ### macOS
-Download the application for macOS Telegram Forwarder .
+Download the application for macOS TelegramForwarder .
 
 *Contact*
 ----
