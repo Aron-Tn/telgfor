@@ -1,3 +1,4 @@
+
 # Telgfor
 **🚀 Best Telegram Bot To Forward Messages - NO SK & Proxyless**
 
@@ -5,7 +6,13 @@
 
 ### ✔️ New version of bot V2 it can be used to get messages instant with the Real user, it's ready also for more information contact me 🔥 .
 
+## Releases
 
+### Windows
+Download the executable file for Windows TelegramForwarder.exe .
+
+### macOS
+Download the application for macOS Telegram Forwarder .
 
 *Contact*
 ----
@@ -16,4 +23,4 @@
 [+] Email : aron.tn.official@gmail.com
 ```
 
-<br>©2023 Aron-Tn
+<br>©2024 Aron-Tn
